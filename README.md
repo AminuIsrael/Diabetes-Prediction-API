@@ -1,5 +1,5 @@
 # Diabetes-Prediction-API
-Deploying a Diabetic classification model via an API
+Deploying a Diabetic classification model with Django via an API
 
 ### Endpoint
 https://diabetiespred.herokuapp.com/
